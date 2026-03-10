@@ -4,6 +4,7 @@ class am
 {
     public static void main(String args[])
     {
+        System.out.println("Hello Guys");
         int n=153;
         int temp=n;
         int c=0;
@@ -23,4 +24,5 @@ class am
         else 
         System.out.println("not amstrong");
     }
+
 }
